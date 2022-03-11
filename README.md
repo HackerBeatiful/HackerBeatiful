@@ -1,5 +1,5 @@
  
-### KNOW MORE ABOUT ME>>>>
+### KNOW MORE ABOUT
 <p align="center"><a href="https://github.com/HackerBeatiful"><img title="HackerBeatiful" src="https://github-readme-stats.vercel.app/api?username=HackerBeatiful&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
