@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<a href=""><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href=""><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
 <a href=""><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 <a href=""><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center"></p>
